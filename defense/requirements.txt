@@ -1,0 +1,3 @@
+libcst>=1.0.0
+semgrep>=1.50.0
+bandit>=1.7.5
